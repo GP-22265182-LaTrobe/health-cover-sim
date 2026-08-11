@@ -2,7 +2,6 @@
 
 A full-stack private health insurance quote simulator built for CSE3CWA / CSE5006, Semester 2 2026. Users can create, view, edit and delete quote records; each quote calculates an estimated monthly and yearly premium from cover type, hospital and extras tiers, applicant ages, Lifetime Health Cover (LHC) loading, the family upgrade fee, and the annual-payment discount.
 
-This is a learning simulator only — it is not financial advice and does not reflect any real insurer's pricing.
 
 ## Tech stack
 
